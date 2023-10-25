@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diogo Dias</h1>
-<h3 align="center">A passionate Data Science student and enthusyast back end developer!</h3>
+<h3 align="center">A passionate Data Science student and enthusiast back end developer!</h3>
 
 - 🌱 I’m currently learning **Statistics, Machine Learning, Data Science python libs, computer vision and Java :)**
 
