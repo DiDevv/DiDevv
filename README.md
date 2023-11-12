@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiDevv?tab=repositories](https://github.com/DiDevv?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, and technology!**
+- 💬 Ask me about **Python, SQL, Back-end programming and technology!**
 
 - 📫 How to reach me **diasdiogo429@gmail.com**
 
