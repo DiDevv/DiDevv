@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Statistics, Machine Learning, Data Science python libs, computer vision and Java :)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiDevv?tab=repositories](https://github.com/DiDevv?tab=repositories)
-- 
+  
 - 📫 How to reach me **diasdiogo429@gmail.com**
 
 
