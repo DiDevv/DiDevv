@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diogo Dias</h1>
 <h3 align="center">A passionate Data Science and Computer Vision student!</h3>
 
-- 🌱 I’m currently learning **Statistics, Machine Learning, Data Science python libs and Computer vision**
+- 🌱 I’m currently learning **Statistics, Machine Learning, Data Science python libs, Data Engineering and LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiDevv?tab=repositories](https://github.com/DiDevv?tab=repositories)
   
