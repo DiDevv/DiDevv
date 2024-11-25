@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, it's me... Diogo 😊</h1>
 <h3 align="center">A passionate Data Science student!</h3>
 
-- 🌱 I’m currently learning **Statistics, Machine Learning, Data Science python libs, Data Engineering and LLMs**
+- 🌱 I’m currently learning **Software Engineering, Statistics, Machine Learning, LLMs, Data Science python libs and Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DiDevv?tab=repositories](https://github.com/DiDevv?tab=repositories)
   
